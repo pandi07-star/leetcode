@@ -39,8 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
