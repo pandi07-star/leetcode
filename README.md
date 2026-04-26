@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/pandi07-star/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
