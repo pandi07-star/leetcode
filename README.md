@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/pandi07-star/leetcode/tree/master/0006-zigzag-conversion) |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
