@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pandi07-star/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pandi07-star/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pandi07-star/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pandi07-star/leetcode/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Memoization
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pandi07-star/leetcode/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pandi07-star/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
