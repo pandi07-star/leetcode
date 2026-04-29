@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pandi07-star/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pandi07-star/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pandi07-star/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pandi07-star/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pandi07-star/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pandi07-star/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pandi07-star/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pandi07-star/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Dynamic Programming
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/pandi07-star/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pandi07-star/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandi07-star/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pandi07-star/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pandi07-star/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pandi07-star/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
