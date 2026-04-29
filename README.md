@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pandi07-star/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/pandi07-star/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/pandi07-star/leetcode/tree/master/0070-climbing-stairs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pandi07-star/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
