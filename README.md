@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1748-sum-of-unique-elements](https://github.com/pandi07-star/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pandi07-star/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pandi07-star/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/pandi07-star/leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/pandi07-star/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pandi07-star/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pandi07-star/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pandi07-star/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/pandi07-star/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pandi07-star/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
