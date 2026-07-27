@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandi07-star/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pandi07-star/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandi07-star/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pandi07-star/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Math
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pandi07-star/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pandi07-star/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandi07-star/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pandi07-star/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pandi07-star/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandi07-star/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
