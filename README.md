@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/pandi07-star/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/pandi07-star/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/pandi07-star/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
