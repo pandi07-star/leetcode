@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/pandi07-star/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
+| [0441-arranging-coins](https://github.com/pandi07-star/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/pandi07-star/leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandi07-star/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pandi07-star/leetcode/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pandi07-star/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pandi07-star/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/pandi07-star/leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
