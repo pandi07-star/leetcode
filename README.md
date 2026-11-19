@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pandi07-star/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/pandi07-star/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
 | [0504-base-7](https://github.com/pandi07-star/leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandi07-star/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pandi07-star/leetcode/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pandi07-star/leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/pandi07-star/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/pandi07-star/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/pandi07-star/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pandi07-star/leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/pandi07-star/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
 | [3310-remove-methods-from-project](https://github.com/pandi07-star/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/pandi07-star/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/pandi07-star/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
