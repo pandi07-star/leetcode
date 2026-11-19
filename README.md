@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandi07-star/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/pandi07-star/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1748-sum-of-unique-elements](https://github.com/pandi07-star/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandi07-star/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pandi07-star/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pandi07-star/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pandi07-star/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandi07-star/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandi07-star/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandi07-star/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/pandi07-star/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/pandi07-star/leetcode/tree/master/3310-remove-methods-from-project) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandi07-star/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
